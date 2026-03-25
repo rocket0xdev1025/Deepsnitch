@@ -230,7 +230,7 @@ const f = `
       className: "flex items-center gap-3",
       children: [
         e.jsx("a", {
-          href: "https://t.me/AI_Deepsnitch",
+          href: "https://t.me/DeepSnitchAI_entry",
           target: "_blank",
           rel: "noopener noreferrer",
           className: "opacity-60 hover:opacity-100 transition-opacity",
@@ -240,7 +240,7 @@ const f = `
           }),
         }),
         e.jsx("a", {
-          href: "https://x.com/AI_Deepsnitch",
+          href: "https://x.com/DeepSnitchAI_x",
           target: "_blank",
           rel: "noopener noreferrer",
           className: "opacity-60 hover:opacity-100 transition-opacity",
@@ -258,7 +258,7 @@ const f = `
       className: "flex items-center gap-2",
       children: [
         e.jsx("a", {
-          href: "https://t.me/AI_Deepsnitch",
+          href: "https://t.me/DeepSnitchAI_entry",
           target: "_blank",
           rel: "noopener noreferrer",
           className: "opacity-60 hover:opacity-100 transition-opacity",
@@ -268,7 +268,7 @@ const f = `
           }),
         }),
         e.jsx("a", {
-          href: "https://x.com/AI_Deepsnitch",
+          href: "https://x.com/DeepSnitchAI_x",
           target: "_blank",
           rel: "noopener noreferrer",
           className: "opacity-60 hover:opacity-100 transition-opacity",

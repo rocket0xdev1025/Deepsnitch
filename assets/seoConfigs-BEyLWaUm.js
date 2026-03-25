@@ -332,7 +332,7 @@ const b = [
     logo: `${o}/seo/logo.png`,
     sameAs: [
       "https://twitter.com/AI_Deepsnitch",
-      "https://t.me/AI_Deepsnitch",
+      "https://t.me/DeepSnitchAI_entry",
       "https://medium.com/@DeepSnitchAI",
     ],
     description:

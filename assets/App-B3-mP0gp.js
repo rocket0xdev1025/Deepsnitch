@@ -3465,7 +3465,7 @@ const getClientIP = async () =>
                           ],
                         }),
                         jsxRuntimeExports.jsxs("a", {
-                          href: "https://t.me/AI_Deepsnitch",
+                          href: "https://t.me/DeepSnitchAI_entry",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className:
@@ -8960,7 +8960,7 @@ function Layout() {
                               className: "flex gap-3 mt-6",
                               children: [
                                 jsxRuntimeExports.jsx("a", {
-                                  href: "https://t.me/AI_Deepsnitch",
+                                  href: "https://t.me/DeepSnitchAI_entry",
                                   className:
                                     "bg-dark2 hover:bg-dark3 rounded-[12px] p-3 md:p-3 p-2 transition-all duration-300 hover:scale-110 hover:shadow-[0_0_15px_rgba(214,252,112,0.3)] group",
                                   target: "_blank",
@@ -8973,7 +8973,7 @@ function Layout() {
                                   }),
                                 }),
                                 jsxRuntimeExports.jsx("a", {
-                                  href: "https://x.com/AI_Deepsnitch",
+                                  href: "https://x.com/DeepSnitchAI_x",
                                   className:
                                     "bg-dark2 hover:bg-dark3 rounded-[12px] p-3 md:p-3 p-2 transition-all duration-300 hover:scale-110 hover:shadow-[0_0_15px_rgba(214,252,112,0.3)] group",
                                   target: "_blank",
@@ -9182,7 +9182,7 @@ function Layout() {
                                     children: jsxRuntimeExports.jsx(Link, {
                                       className:
                                         "text-[16px] leading-[24px] text-white/80 hover:text-[#D6FC70] transition-colors duration-200 hover:translate-x-1 inline-block",
-                                      to: "https://t.me/AI_Deepsnitch",
+                                      to: "https://t.me/DeepSnitchAI_entry",
                                       children: k(
                                         "footer.Telegram",
                                         "Telegram"
@@ -9193,7 +9193,7 @@ function Layout() {
                                     children: jsxRuntimeExports.jsx(Link, {
                                       className:
                                         "text-[16px] leading-[24px] text-white/80 hover:text-[#D6FC70] transition-colors duration-200 hover:translate-x-1 inline-block",
-                                      to: "https://x.com/AI_Deepsnitch",
+                                      to: "https://x.com/DeepSnitchAI_x",
                                       children: k(
                                         "footer.Twitter",
                                         "Twitter"
@@ -9215,7 +9215,7 @@ function Layout() {
                                     children: jsxRuntimeExports.jsx(Link, {
                                       className:
                                         "text-[16px] leading-[24px] text-white/80 hover:text-[#D6FC70] transition-colors duration-200 hover:translate-x-1 inline-block",
-                                      to: "https://www.dextools.io/app/ether/pair-explorer/0x9f36308dfd2fed45371d7bc13ce83f20b69d1694",
+                                      to: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                       children: k(
                                         "footer.Dextools",
                                         "Dextools"
