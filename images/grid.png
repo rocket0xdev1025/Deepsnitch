@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="/seo/favicon.ico" />
+  <link rel="apple-touch-icon" href="/seo/apple-touch-icon.png" />
+  <link rel="manifest" href="/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DeepSnitch AI ($DSNT) Presale: AI Agents for On-Chain Crypto Alpha</title>
+  <meta name="description"
+    content="Be early to DeepSnitch AI. $DSNT token is live – access real-time market intelligence from autonomous AI agents." />
+  <meta name="keywords"
+    content="Deep Snitch AI, crypto AI, blockchain security, scam detection, whale tracking, DeFi protection" />
+  <meta name="author" content="Deep Snitch AI Team" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="DeepSnitch AI ($DSNT) Presale: AI Agents for On-Chain Crypto Alpha" />
+  <meta property="og:description"
+    content="Be early to DeepSnitch AI. $DSNT token is live – access real-time market intelligence from autonomous AI agents." />
+  <meta property="og:image" content="https://frontend-production-d3af.up.railway.app/seo/og-image.jpg" />
+  <meta property="og:url" content="https://frontend-production-d3af.up.railway.app" />
+  <meta property="og:type" content="website" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="DeepSnitch AI ($DSNT) Presale: AI Agents for On-Chain Crypto Alpha" />
+  <meta name="twitter:description"
+    content="Be early to DeepSnitch AI. $DSNT token is live – access real-time market intelligence from autonomous AI agents." />
+  <meta name="twitter:image" content="https://frontend-production-d3af.up.railway.app/seo/og-image-twitter.jpg" />
+
+  <!-- Google Tag Manager - Resilient First-Party Tracking -->
+  <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s); j.async = true; j.src = "https://das.deepsnitch.ai/b8hfyyuvbt.js?" + i; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'cogngq=HQZLMi00S11ALDszNEo%2BTgJfRFtIXwIGSQYTEAkKCAEAAR5bGBA%3D');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Preconnect to external domains for performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "DeepSnitch AI",
+      "description": "AI Agents for On-Chain Crypto Alpha",
+      "url": "https://frontend-production-d3af.up.railway.app",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://frontend-production-d3af.up.railway.app/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+  <script type="module" crossorigin src="/assets/index-BN8Hac8J.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/crypto-libs-BTkSibId.js">
+  <link rel="modulepreload" crossorigin href="/assets/wallet-libs-C4iBya-7.js">
+  <link rel="modulepreload" crossorigin href="/assets/react-vendor-CKqXOJaQ.js">
+  <link rel="modulepreload" crossorigin href="/assets/animation-libs-DQqW_Ij_.js">
+  <link rel="modulepreload" crossorigin href="/assets/i18n-libs-7YlS43F0.js">
+  <link rel="stylesheet" crossorigin href="/assets/css/index-BcRriLhl.css">
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe
+      src="https://das.deepsnitch.ai/yx0fghyxfx.html?cogngq=HQZLMi00S11ALDszNEo%2BTgJfRFtIXwIGSQYTEAkKCAEAAR5bGBA%3D"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div id="root"></div>
+
+  <!-- Redtrack Click Tracking -->
+  <script type="text/javascript" src="https://att.trk.rtrk.app/track.js?rtkcmpid=68a6c4826ea03d59a071fe34"></script>
+</body>
+
+</html>
