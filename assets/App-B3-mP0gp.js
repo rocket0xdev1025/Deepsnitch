@@ -2641,7 +2641,7 @@ const Image$1 = reactExports.memo(Image),
         cmc_id: 825,
       },
       usdc: {
-        address: "0xComingSoon",
+        address: "0x70470797217dacc572f3383efbb3a3ee82bd774d",
         icon: "images/usdc.png",
         label: "USDC",
         cmc_id: 3408,
@@ -8645,14 +8645,14 @@ function Layout() {
                               variant: "primary",
                               onClick: () =>
                                 window.open(
-                                  "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                                  "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x70470797217dacc572f3383efbb3a3ee82bd774d",
                                   "_blank"
                                 ),
                               onKeyDown: (X) => {
                                 (X.key === "Enter" || X.key === " ") &&
                                   (X.preventDefault(),
                                   window.open(
-                                    "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                                    "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x70470797217dacc572f3383efbb3a3ee82bd774d",
                                     "_blank"
                                   ));
                               },
@@ -9204,7 +9204,7 @@ function Layout() {
                                     children: jsxRuntimeExports.jsx(Link, {
                                       className:
                                         "text-[16px] leading-[24px] text-white/80 hover:text-[#D6FC70] transition-colors duration-200 hover:translate-x-1 inline-block",
-                                      to: "https://dexscreener.com/ethereum/0xComingSoon",
+                                      to: "https://dexscreener.com/ethereum/0x70470797217dacc572f3383efbb3a3ee82bd774d",
                                       children: k(
                                         "footer.Dexscreener",
                                         "Dexscreener"
@@ -9215,7 +9215,7 @@ function Layout() {
                                     children: jsxRuntimeExports.jsx(Link, {
                                       className:
                                         "text-[16px] leading-[24px] text-white/80 hover:text-[#D6FC70] transition-colors duration-200 hover:translate-x-1 inline-block",
-                                      to: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                      to: "https://www.dextools.io/app/en/ether/pair-explorer/0x70470797217dacc572f3383efbb3a3ee82bd774d",
                                       children: k(
                                         "footer.Dextools",
                                         "Dextools"
@@ -9226,7 +9226,7 @@ function Layout() {
                                     children: jsxRuntimeExports.jsx(Link, {
                                       className:
                                         "text-[16px] leading-[24px] text-white/80 hover:text-[#D6FC70] transition-colors duration-200 hover:translate-x-1 inline-block",
-                                      to: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                                      to: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x70470797217dacc572f3383efbb3a3ee82bd774d",
                                       children: k(
                                         "footer.Uniswap",
                                         "Uniswap"

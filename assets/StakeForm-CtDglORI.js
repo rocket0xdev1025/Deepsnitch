@@ -222,7 +222,7 @@ const We = {
         cmc_id: 825,
       },
       usdc: {
-        address: "0xComingSoon",
+        address: "0x70470797217dacc572f3383efbb3a3ee82bd774d",
         icon: "images/usdc.png",
         label: "USDC",
         cmc_id: 3408,
